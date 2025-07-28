@@ -1,7 +1,7 @@
 # Code Recognizer using NLP
 
 ## Author
-[Shaik Faizan Roshan Ali](https://www.github.com/faizanroshan)
+https://github.com/Jasperjoshi
 ## Description
 This project involves recognizing the programming language based on the code snippets. 
 The dataset can be downloaded from [kaggle](https://www.kaggle.com/datasets/simiotic/github-code-snippets). The dataset used in this is a subset of the above-mentioned dataset.
